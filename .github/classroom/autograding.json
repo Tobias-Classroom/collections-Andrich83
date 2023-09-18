@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "CollectionsTests",
+      "setup": "dotnet build",
+      "run": "dotnet test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
